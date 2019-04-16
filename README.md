@@ -1,0 +1,2 @@
+# ThreeLayerNeural
+python3で三層ニューラルネットの実装をしたときのもの
